@@ -1,0 +1,12 @@
+Projet : hello_cmocka
+Contexte d'utilisation : Cours/TD/TP Programmation C : "Test pour le C"
+
+Auteur : Matthias Brun (matthias.brun@eseo.fr)
+
+Structure d'un projet qui servira de guide pour l'apprentissage du test en C avec CMocka.
+Ce projet sera à compléter avec du code source (de production) et du code de test.
+L'arborescence et les Makefiles sont complétés p/r la version initiale.
+Attention : La macro CMOCKA est à renseigner pour correspondre à l'installation de cmocka sur vos machines.
+
+--
+Version du 19/02/2019
